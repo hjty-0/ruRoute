@@ -21,7 +21,7 @@ LISTS_DIR="$RUROUTE_DIR/lists"
 BACKUP_DIR="$RUROUTE_DIR/backups"
 SERVICE_FILE="/etc/systemd/system/ruroute-watcher.service"
 CRON_FILE="/etc/cron.d/ruroute"
-REPO_RAW="https://raw.githubusercontent.com/hjty-0/ruRoute/main/ruRoute_5"
+REPO_RAW="https://raw.githubusercontent.com/hjty-0/ruRoute/main/ruRoute_8"
 VERSION="1.0.0"
 
 declare -A PANEL_CONFIG_PATHS=(
